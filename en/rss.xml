@@ -1,0 +1,449 @@
+<!-- START RENDERER -->
+<!-- CACHE-HIT: No -->
+<!-- CACHE TAGS:
+   * config:views.view.frontpage
+   * node_list
+   * node:1
+   * node:2
+   * node:3
+   * node:4
+   * node_view
+   * file:14
+   * user:1
+   * config:filter.format.basic_html
+   * file:16
+   * file:13
+   * file:12
+-->
+<!-- CACHE CONTEXTS:
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * user.node_grants:view
+   * languages:language_content
+   * timezone
+   * languages:language_url
+   * url.site
+-->
+<!-- CACHE KEYS:
+   * view
+   * frontpage
+   * display
+   * feed_1
+-->
+<!-- CACHE MAX-AGE: -1 -->
+<!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_interface
+   * theme
+   * user.permissions
+-->
+<!-- PRE-BUBBLING CACHE KEYS:
+   * view
+   * frontpage
+   * display
+   * feed_1
+-->
+<!-- RENDERING TIME: 0.187913895 -->
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://adlertrans.localhost/en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Website</title>
+    <link>http://adlertrans.localhost/en</link>
+    <description></description>
+    <language>en</language>
+    
+    <item>
+  <title>Járműpark</title>
+  <link>http://adlertrans.localhost/jarmupark</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:4
+   * file:12
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+   * languages:language_url
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 4
+   * rss
+   * en
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:4
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 4
+   * rss
+   * en
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.045982122 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Fleet&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+&lt;div class=&quot;field-items&quot;&gt;
+&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div&gt;Privately owned fleet of VOLVO tractors and SCHMITZ and KRONE curtainsider trailers. &lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;Our fleet of tractors, 95% of which are EUR 6 environmentally compliant models, consists of vehicles an average of 1.5 years old.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;All trailers have lifting roofs for easy crane loading.  Load heights vary from 2.8 to 3.0 metres.  Trailers are Code XL certified and are equipped with the necessary means for securing cargo (straps, mats, and bars).&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;In addition to 30 privately owned tractor-trailers, we also have at our disposal the vehicles made available by our long-term charter subcontractors.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;Each vehicle is additionally equipped with Dynafleet, Volvo’s own factory satellite communication system.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/en/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-03-29T11:02:00+00:00&quot;&gt;Wed, 03/29/2023 - 13:02&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/jarmupark.jpg&quot; width=&quot;2500&quot; height=&quot;1400&quot; alt=&quot;Fleet&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:56:22 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">4 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Környezetvédelem</title>
+  <link>http://adlertrans.localhost/kornyezetvedelem</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:3
+   * file:13
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+   * languages:language_url
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * en
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:3
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * en
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.008064032 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Environmental protection&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+&lt;div class=&quot;field-items&quot;&gt;
+&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div&gt;Because our company is committed to help protect the environment, every business decision we make gives high priority to environmental considerations.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;h3&gt;Recent achievements in environmental protection:&lt;/h3&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;In 2015, our fleet was overhauled and expanded, with the result that 95% of our current vehicles are recent models that comply with the latest, EUR 6 standards.&lt;/li&gt;
+	&lt;li&gt;Starting in 2014, all drivers are subject to ongoing driving skills training, a program that has resulted in a 7% fuel savings and a reduction in emissions.&lt;/li&gt;
+	&lt;li&gt;Warehouse technology has been converted to the use of gas-powered vehicles.&lt;/li&gt;
+	&lt;li&gt;Since September of 2015, all freight logistics and administration has been done without the use of paper, while the conversion of all company operations to digitised processes and paperless document storage is underway.&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;All wastes are collected selectively.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/en/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-03-29T11:01:00+00:00&quot;&gt;Wed, 03/29/2023 - 13:01&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/kornyezet.jpg&quot; width=&quot;2400&quot; height=&quot;1602&quot; alt=&quot;Environmental protection&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:52:02 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">3 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Szolgáltatásaink</title>
+  <link>http://adlertrans.localhost/szolgaltatasaink</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:2
+   * file:16
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+   * languages:language_url
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 2
+   * rss
+   * en
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:2
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 2
+   * rss
+   * en
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.011006832 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Our services&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;div class=&quot;bootstrap-tabs&quot;&gt;
+&lt;ul class=&quot;nav nav-tabs&quot;&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#Road&quot;&gt;Road Freight&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Ocean-and-air&quot;&gt;Ocean &amp;amp; Air Freight&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Warehousing&quot;&gt;Warehousing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;
+&lt;div class=&quot;tab-pane active&quot; id=&quot;Road&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;div&gt;Adler-Trans’s main profile extends to international overland shipping and freight forwarding to countries in Europe, with primary reference to destinations in Germany, Italy, France, the Benelux nations, the United Kingdom, Poland, Estonia, Latvia, Norway, Sweden, Spain, Serbia, Croatia, and Slovenia.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;Our employees, all of whom have advanced degrees, numerous years of experience, and extended connections, are aided in their work by the absolute latest in office technolgy.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+&lt;h3&gt;Our business includes:&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Forwarding of general commercial goods by curtainsided tractor-trailer for loads of 0 to 24 tonnes;&lt;/li&gt;
+	&lt;li&gt;Shipping of small, partial, and consolidated loads;&lt;/li&gt;
+	&lt;li&gt;Shipping of small loads requiring expedited delivery for load sizes of up to 40 m3 and weights of up to 3.5 tonnes;&lt;/li&gt;
+	&lt;li&gt;Transportation of merchandise requiring heating or refrigeration;&lt;/li&gt;
+	&lt;li&gt;Express services (employing 2 drivers);&lt;/li&gt;
+	&lt;li&gt;Placement of stand-by trailers.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;For our largest customers, we offer custom services involving fixed deadlines, partial loads, or just-in-time shipping.  Our staff is available 24 hours a day.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;span&gt;Our information systems including computer freight tracking and record keeping services, providing our customers with up-to-date, accurate information as required.  All staff members and vehicles are equipped with mobile telephones, while transport units also feature satellite communication/tracking systems.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;tab-pane&quot; id=&quot;Ocean-and-air&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;div id=&quot;content-legi&quot;&gt;
+&lt;div&gt;Opened in 2015, the Adler-Trans Ltd office in Győr offers both overland, and full-spectrum freight forwarding services.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Ocean and air services to destinations around the world&lt;/li&gt;
+	&lt;li&gt;Partner offices on every continent&lt;/li&gt;
+	&lt;li&gt;Two coordinators on call 24 hours a day, seven days a week&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+&lt;h3&gt;Available services&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;Full container and less than container loads (FCL/LCL)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;Special shipments&lt;/li&gt;
+	&lt;li&gt;Full merchandise insurance&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;Door-to-door shipping&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;tab-pane&quot; id=&quot;Warehousing&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;div&gt;Our facility in Tatabánya includes a smaller-sized, 400 m2 cross-docking and freight consolidation centre.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+&lt;h3&gt;AVAILABLE SERVICES&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;24-hour cross docking of FTL, LTL, or partial loads &lt;/li&gt;
+	&lt;li&gt;Freight receiving and temporary, short-term warehousing&lt;/li&gt;
+	&lt;li&gt;Receiving of shipping containers&lt;/li&gt;
+	&lt;li&gt;Packaging and other cargo handling services&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/en/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-03-29T11:00:30+00:00&quot;&gt;Wed, 03/29/2023 - 13:00&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/szolgaltatasaink_0.jpg&quot; width=&quot;2400&quot; height=&quot;1600&quot; alt=&quot;Our services&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:38:35 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">2 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Rólunk</title>
+  <link>http://adlertrans.localhost/rolunk</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:1
+   * file:14
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+   * languages:language_url
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * en
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:1
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * en
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.007028818 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;About us&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Adler-Trans Ltd was founded in 1995 as a privately-owned enterprise. Since then, we have accumulated a wealth of knowledge in the field of international shipping and freight forwarding. At Adler-Trans Ltd, our priority is to provide high-standard services that meet our customers’ needs with speed, accuracy, and flexibility. Our business decisions have been and always will be made on the following key matters of policy:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Fair, reliable partner relations with a view to quality services&lt;/li&gt;
+	&lt;li&gt;Continuous training for employees and maximal adjustment to changing market conditions&lt;/li&gt;
+	&lt;li&gt;Unending technical and IT development that keeps pace with market standards High-standard service and fidelity to business partners&lt;/li&gt;
+	&lt;li&gt;Respect for the environment.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Our employees’ training, experience, and technical expertise are your guarantee that we will not only meet our goals, but will do so in a way that that fully satisfies your transport needs.&lt;/p&gt;
+
+&lt;p&gt;Hoping to do business with you soon,&lt;/p&gt;
+
+&lt;div class=&quot;center-mobile&quot;&gt;&lt;em&gt;&lt;strong&gt;Zoltán Zsemlye&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/en/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-03-29T11:00:00+00:00&quot;&gt;Wed, 03/29/2023 - 13:00&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/rolunk.jpg&quot; width=&quot;2500&quot; height=&quot;1875&quot; alt=&quot;Wir über uns&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:00:33 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1 at http://adlertrans.localhost</guid>
+    </item>
+
+  </channel>
+</rss>
+
+<!-- END RENDERER -->

@@ -1,0 +1,418 @@
+<!-- START RENDERER -->
+<!-- CACHE-HIT: No -->
+<!-- CACHE TAGS:
+   * config:views.view.frontpage
+   * node_list
+   * node:1
+   * node:2
+   * node:3
+   * node:4
+   * node_view
+   * file:14
+   * user:1
+   * config:filter.format.basic_html
+   * file:16
+   * file:13
+   * file:12
+-->
+<!-- CACHE CONTEXTS:
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * user.node_grants:view
+   * languages:language_content
+   * timezone
+   * url.site
+-->
+<!-- CACHE KEYS:
+   * view
+   * frontpage
+   * display
+   * feed_1
+-->
+<!-- CACHE MAX-AGE: -1 -->
+<!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_interface
+   * theme
+   * user.permissions
+-->
+<!-- PRE-BUBBLING CACHE KEYS:
+   * view
+   * frontpage
+   * display
+   * feed_1
+-->
+<!-- RENDERING TIME: 0.868266106 -->
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://adlertrans.localhost/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>adler-trans</title>
+    <link>http://adlertrans.localhost/</link>
+    <description></description>
+    <language>hu</language>
+    
+    <item>
+  <title>Járműpark</title>
+  <link>http://adlertrans.localhost/jarmupark</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:4
+   * file:12
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 4
+   * rss
+   * hu
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:4
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 4
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.092963934 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Járműpark&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;&lt;span&gt;Saját járműparkunk VOLVO nyergesvontatókból, SCHMITZ és KRONE ponyvás félpótkocsikból áll.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Vontatóink 95%-a EUR 6 környezetvédelmi osztályba tartozik, átlagéletkor 1,5 év.&lt;/p&gt;
+
+&lt;p&gt;A pótkocsik mindegyike kiemelhető tetős, és daruzható. A rakodási magasság 2,80 és 3,00 méter között változik. Rendelkeznek az XL code minősítéssel, valamint a szükséges rakományrögzítő felszerelésekkel. (spaniferek, csúszásgátlók, végzárók)&lt;/p&gt;
+
+&lt;p&gt;Az eszközállományunk a 30 db saját járműszerelvényen túl kiegészül alvállalkozóink által hosszú távú charter szerződéssel rendelkezésre bocsátott járművekkel is.&lt;/p&gt;
+
+&lt;p&gt;Minden gépjárművünk rendelkezik a Volvo gyári kommunikációs és műholdas rendszerével, a Dynafleet-tel.&lt;/p&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-02-27T13:56:22+00:00&quot;&gt;2023. 02. 27., h – 14:56&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/jarmupark.jpg&quot; width=&quot;2500&quot; height=&quot;1400&quot; alt=&quot;Járműpark&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:56:22 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">4 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Környezetvédelem</title>
+  <link>http://adlertrans.localhost/kornyezetvedelem</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:3
+   * file:13
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * hu
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:3
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.007217884 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Környezetvédelem&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;&lt;span&gt;Vállalkozásunk elkötelezett a környezetvédelem mellett, ezért minden üzleti döntésünk meghozatala során a környezetvédelmi szempontok prioritást élveznek. Az elmúlt időszakban elért eredményeink:&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;2015-ben egy nagyarányú flottacserét és bővítést hajtottunk végre melynek eredményeként flottánk 95 %-a a legkorszerűbb EUR 6 besorolású jármű lett;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;gépkocsivezetőink 2014 évtől folyamatosan vezetéstechnikai tréningeken vesznek részt, melynek eredménye a 7%-os üzemanyag megtakarításon túl a károsanyag kibocsátás csökkenése is;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;raktár technológiánkban átálltunk a gázüzemű targoncák használatára;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;a fuvarszervezés és lebonyolítás 2015. szeptemberétől papír használata nélkül történik, és folyamatban van a cég teljes működésének átállítása a digitalizált folyamatokra és a papírmentes irattárolásra;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;a szemetet szelektíven gyűjtjük.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-02-27T13:52:02+00:00&quot;&gt;2023. 02. 27., h – 14:52&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/kornyezet.jpg&quot; width=&quot;2400&quot; height=&quot;1602&quot; alt=&quot;Környezetvédelem&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:52:02 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">3 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Szolgáltatásaink</title>
+  <link>http://adlertrans.localhost/szolgaltatasaink</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:2
+   * file:16
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 2
+   * rss
+   * hu
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:2
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 2
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.008953810 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Szolgáltatásaink&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;div class=&quot;bootstrap-tabs&quot;&gt;
+&lt;ul class=&quot;nav nav-tabs&quot;&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#Kozuti-szallitas&quot;&gt;Közúti szállítás&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Tengeri-es-legi&quot;&gt;Tengeri és légi szállítás&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Raktar&quot;&gt;Átrakóraktár&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;
+&lt;div class=&quot;tab-pane active&quot; id=&quot;Kozuti-szallitas&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;p&gt;&lt;span&gt;Társaságunk fő tevékenységi köre a nemzetközi közúti fuvarozás és a közúti szállítmányozás Európa országaiba.&lt;br /&gt;
+Kiemelten kezeljük a német, olasz, francia, benelux, angol, lengyel, észt, lett, norvég finn, svéd, spanyol , valamint a szerb, horvát és szlovén viszonylatokat.&lt;br /&gt;
+Munkatársainkat, akik felsőfokú végzettséggel, sokéves gyakorlattal, és széles kapcsolatrendszerrel rendelkeznek, a legkorszerűbb irodatechnika segíti.&lt;/span&gt;&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;h3&gt;Vállaljuk:&lt;/h3&gt;
+
+&lt;p&gt;normál kereskedelmi áruk továbbítását ponyvás járműszerelvényekkel, kocsirakományként 0-24 tonnáig;&lt;br /&gt;
+kisebb tételű küldemények, részrakományok és gyűjtő áruk fuvarozását;&lt;br /&gt;
+kistételű, gyorsan továbbítandó áruk fuvarozását 40m³-ig illetve 3,5 tonnáig;&lt;br /&gt;
+hűtést ill. fűtést igénylő áruk fuvarozását;&lt;br /&gt;
+expressz (2 sofőrös) feladatok ellátását;&lt;br /&gt;
+stand-by pótkocsik kihelyezését.&lt;br /&gt;
+Legnagyobb megrendelőinknek személyre szabott szolgáltatást tudunk nyújtani, akár kötött határidőkről, részrakományokról vagy just-in-time rendszerű fuvarozásról legyen szó. Munkatársaink a nap 24 órájában rendelkezésre állnak.&lt;br /&gt;
+Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántartási rendszerünk biztosítja, hogy megbízóink igény szerinti, naprakész és pontos tájékoztatást kapjanak. Minden munkatársunk és minden járművünk rendelkezik mobiltelefonnal. Kamionjainkban műholdas járműkövető rendszer is van.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;tab-pane&quot; id=&quot;Tengeri-es-legi&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;p&gt;A 2015-ben megnyitott győri irodánk a közúti szállítmányozáson túl teljes körű szállítmányozási szolgáltatást nyújt partnereinknek.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;tengeri és légi szállítások a világ minden tájára&lt;/li&gt;
+	&lt;li&gt;partner irodák az összes földrészen&lt;/li&gt;
+	&lt;li&gt;2 fuvarszervező 24 órás elérhetőséggel a hét bármely napján&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Elérhető szolgáltatások:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;teljes és gyűjtő konténeres szállítások(FCL/LCL)&lt;/li&gt;
+	&lt;li&gt;különleges szállítások&lt;/li&gt;
+	&lt;li&gt;teljeskörű árubiztosítás&lt;/li&gt;
+	&lt;li&gt;háztól házig szállítás&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;tab-pane&quot; id=&quot;Raktar&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane-content&quot;&gt;
+&lt;div class=&quot;ds-1col node node-basic-page node-promoted view-mode-full clearfix&quot;&gt;
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+&lt;div class=&quot;field-items&quot;&gt;
+&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div&gt;Tatabányai telephelyünkön egy kisebb, 400 m2-es átrakó, gyűjtő raktárt működtetünk.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+&lt;h3&gt;ELÉRHETŐ SZOLGÁLTATÁSOK&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;teljes vagy gyűjtő és részrakományok átrakása 0-24 órában&lt;/li&gt;
+	&lt;li&gt;áruk fogadása, ideiglenes rövid idejű tárolása&lt;/li&gt;
+	&lt;li&gt;konténerek fogadása&lt;/li&gt;
+	&lt;li&gt;csomagolás,egyéb árukezelés&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-02-27T13:38:35+00:00&quot;&gt;2023. 02. 27., h – 14:38&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/szolgaltatasaink_0.jpg&quot; width=&quot;2400&quot; height=&quot;1600&quot; alt=&quot;Szolgáltatásaink&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:38:35 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">2 at http://adlertrans.localhost</guid>
+    </item>
+<item>
+  <title>Rólunk</title>
+  <link>http://adlertrans.localhost/rolunk</link>
+  <description>&lt;!-- START RENDERER --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE TAGS:
+   * node_view
+   * node:1
+   * file:14
+   * user:1
+   * config:filter.format.basic_html
+--&gt;
+&lt;!-- CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+   * timezone
+--&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * hu
+--&gt;
+&lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:1
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.009485960 --&gt;
+
+&lt;span property=&quot;schema:name&quot;&gt;Rólunk&lt;/span&gt;
+
+            &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Társaságunk 1995-ben alakult, magántulajdonú vállalkozásként működik. Sokéves tapasztalatra tettünk szert az elmúlt időszakban a nemzetközi szállítmányozás és fuvarozás területén.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Mindig fontosnak tartottuk a nyújtott szolgáltatások magas színvonalon történő ellátását, és partnereink gyors, pontos és rugalmas kiszolgálását.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Üzletpolitikánk legfontosabb elemei, amik minden eddigi és jövőbeni döntésünket is meghatározzák:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;megbízható és korrekt partnerkapcsolatok kialakítása és a minőségi kiszolgálás&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;a munkatársak folyamatos továbbképzése, a változó piaci igényekhez való maximális alkalmazkodás&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;folyamatos műszaki és informatikai fejlesztések, a piaci igények követésével&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;magas színvonalú szolgáltatás nyújtása, és hűség a partnereinkhez.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;környezetvédelem&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;Munkatársaink képzettsége, tapasztalata és a megfelelő technikai háttér a garancia arra, hogy célkitűzéseinket a megrendelőink megelégedettsége mellett érjük el.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Remélem hamarosan Önt is a megrendelőink között köszönthetem.&lt;/p&gt;
+
+&lt;div class=&quot;center-mobile&quot;&gt;&lt;strong&gt;Zsemlye Zoltán &lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;
+      
+&lt;span rel=&quot;schema:author&quot;&gt;&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2023-02-27T13:00:33+00:00&quot;&gt;2023. 02. 27., h – 14:00&lt;/span&gt;
+
+            &lt;div class=&quot;field field--name-field-image field--type-image field--label-hidden field__item&quot;&gt;  
+&lt;img src=&quot;/sites/default/files/2023-03/rolunk.jpg&quot; width=&quot;2500&quot; height=&quot;1875&quot; alt=&quot;Rólunk&quot; loading=&quot;lazy&quot; typeof=&quot;foaf:Image&quot; class=&quot;img-fluid&quot; /&gt;
+
+&lt;/div&gt;
+      
+&lt;!-- END RENDERER --&gt;</description>
+  <pubDate>Mon, 27 Feb 2023 13:00:33 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1 at http://adlertrans.localhost</guid>
+    </item>
+
+  </channel>
+</rss>
+
+<!-- END RENDERER -->
