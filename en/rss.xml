@@ -43,7 +43,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.187913895 -->
+<!-- RENDERING TIME: 0.242377996 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -98,7 +98,7 @@
    * en
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.045982122 --&gt;
+&lt;!-- RENDERING TIME: 0.058112860 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Fleet&lt;/span&gt;
 
@@ -186,7 +186,7 @@
    * en
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.008064032 --&gt;
+&lt;!-- RENDERING TIME: 0.011993885 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Environmental protection&lt;/span&gt;
 
@@ -268,7 +268,7 @@
    * en
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.011006832 --&gt;
+&lt;!-- RENDERING TIME: 0.015223980 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Our services&lt;/span&gt;
 
@@ -412,7 +412,7 @@
    * en
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.007028818 --&gt;
+&lt;!-- RENDERING TIME: 0.005512953 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;About us&lt;/span&gt;
 

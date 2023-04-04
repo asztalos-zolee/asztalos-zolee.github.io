@@ -43,7 +43,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.169347048 -->
+<!-- RENDERING TIME: 0.236222982 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/de" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -98,7 +98,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.040632963 --&gt;
+&lt;!-- RENDERING TIME: 0.052045107 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Fuhrpark&lt;/span&gt;
 
@@ -186,7 +186,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.006784916 --&gt;
+&lt;!-- RENDERING TIME: 0.009840965 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Umweltschutz&lt;/span&gt;
 
@@ -268,7 +268,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.007939816 --&gt;
+&lt;!-- RENDERING TIME: 0.012217045 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Unsere Dienstleistungen&lt;/span&gt;
 
@@ -418,7 +418,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.007804155 --&gt;
+&lt;!-- RENDERING TIME: 0.010614872 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Wir über uns&lt;/span&gt;
 

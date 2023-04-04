@@ -188,12 +188,14 @@ body.toolbar-vertical .navbar {
   flex-direction: row;
   gap: 12px;
   justify-content: flex-end;
+  margin-right: 16px;
   font-weight: 700;
 }
 @media (max-width: 1199.98px) {
   .navbar ul.links.nav {
     justify-content: center;
     margin-top: 1.35em;
+    margin-right: 0;
   }
 }
 .navbar ul.links.nav li {
@@ -217,7 +219,6 @@ body.toolbar-vertical .navbar {
 }
 .navbar ul.nav {
   gap: 26px;
-  margin-right: 16px;
 }
 @media (max-width: 1199.98px) {
   .navbar ul.nav {
@@ -225,7 +226,6 @@ body.toolbar-vertical .navbar {
     flex-wrap: nowrap;
     overflow-y: scroll;
     height: 100%;
-    margin-right: 0;
   }
 }
 .navbar ul.nav li a.nav-link {

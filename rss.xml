@@ -42,7 +42,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.868266106 -->
+<!-- RENDERING TIME: 0.915877104 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -96,7 +96,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.092963934 --&gt;
+&lt;!-- RENDERING TIME: 0.091309071 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Járműpark&lt;/span&gt;
 
@@ -169,7 +169,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.007217884 --&gt;
+&lt;!-- RENDERING TIME: 0.007465124 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Környezetvédelem&lt;/span&gt;
 
@@ -241,7 +241,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.008953810 --&gt;
+&lt;!-- RENDERING TIME: 0.008100986 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Szolgáltatásaink&lt;/span&gt;
 
@@ -374,7 +374,7 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.009485960 --&gt;
+&lt;!-- RENDERING TIME: 0.009179115 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Rólunk&lt;/span&gt;
 
