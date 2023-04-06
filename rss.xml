@@ -42,7 +42,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.915877104 -->
+<!-- RENDERING TIME: 0.110107183 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -96,7 +96,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.091309071 --&gt;
+&lt;!-- RENDERING TIME: 0.037868977 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Járműpark&lt;/span&gt;
 
@@ -128,7 +128,7 @@
   <title>Környezetvédelem</title>
   <link>http://adlertrans.localhost/kornyezetvedelem</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE-HIT: Yes --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:3
@@ -143,33 +143,7 @@
    * user.permissions
    * timezone
 --&gt;
-&lt;!-- CACHE KEYS:
-   * entity_view
-   * node
-   * 3
-   * rss
-   * hu
---&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
-&lt;!-- PRE-BUBBLING CACHE TAGS:
-   * node_view
-   * node:3
---&gt;
-&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
-   * languages:language_content
-   * languages:language_interface
-   * theme
-   * user.permissions
---&gt;
-&lt;!-- PRE-BUBBLING CACHE KEYS:
-   * entity_view
-   * node
-   * 3
-   * rss
-   * hu
---&gt;
-&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.007465124 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Környezetvédelem&lt;/span&gt;
 
@@ -241,16 +215,16 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.008100986 --&gt;
+&lt;!-- RENDERING TIME: 0.010616064 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Szolgáltatásaink&lt;/span&gt;
 
             &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;div class=&quot;bootstrap-tabs&quot;&gt;
-&lt;ul class=&quot;nav nav-tabs&quot;&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#Kozuti-szallitas&quot;&gt;Közúti szállítás&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;#Tengeri-es-legi&quot;&gt;Tengeri és légi szállítás&lt;/a&gt;&lt;/li&gt;
+&lt;ul class=&quot;nav nav-tabs&quot;&gt;&lt;li&gt;&lt;a href=&quot;#Kozuti-szallitas&quot;&gt;Közúti szállítás&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#Tengeri-es-legi&quot;&gt;Tengeri és légi szállítás&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;#Raktar&quot;&gt;Átrakóraktár&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;
-&lt;div class=&quot;tab-pane active&quot; id=&quot;Kozuti-szallitas&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane&quot; id=&quot;Kozuti-szallitas&quot; role=&quot;tabpanel&quot;&gt;
 &lt;div class=&quot;tab-pane-content&quot;&gt;
 &lt;p&gt;&lt;span&gt;Társaságunk fő tevékenységi köre a nemzetközi közúti fuvarozás és a közúti szállítmányozás Európa országaiba.&lt;br /&gt;
 Kiemelten kezeljük a német, olasz, francia, benelux, angol, lengyel, észt, lett, norvég finn, svéd, spanyol , valamint a szerb, horvát és szlovén viszonylatokat.&lt;br /&gt;
@@ -259,18 +233,18 @@ Munkatársainkat, akik felsőfokú végzettséggel, sokéves gyakorlattal, és s
 
 &lt;h3&gt;Vállaljuk:&lt;/h3&gt;
 
-&lt;p&gt;normál kereskedelmi áruk továbbítását ponyvás járműszerelvényekkel, kocsirakományként 0-24 tonnáig;&lt;br /&gt;
-kisebb tételű küldemények, részrakományok és gyűjtő áruk fuvarozását;&lt;br /&gt;
-kistételű, gyorsan továbbítandó áruk fuvarozását 40m³-ig illetve 3,5 tonnáig;&lt;br /&gt;
-hűtést ill. fűtést igénylő áruk fuvarozását;&lt;br /&gt;
-expressz (2 sofőrös) feladatok ellátását;&lt;br /&gt;
-stand-by pótkocsik kihelyezését.&lt;br /&gt;
-Legnagyobb megrendelőinknek személyre szabott szolgáltatást tudunk nyújtani, akár kötött határidőkről, részrakományokról vagy just-in-time rendszerű fuvarozásról legyen szó. Munkatársaink a nap 24 órájában rendelkezésre állnak.&lt;br /&gt;
+&lt;ul&gt;&lt;li&gt;normál kereskedelmi áruk továbbítását ponyvás járműszerelvényekkel, kocsirakományként 0-24 tonnáig;&lt;/li&gt;
+	&lt;li&gt;kisebb tételű küldemények, részrakományok és gyűjtő áruk fuvarozását;&lt;/li&gt;
+	&lt;li&gt;kistételű, gyorsan továbbítandó áruk fuvarozását 40m³-ig illetve 3,5 tonnáig;&lt;/li&gt;
+	&lt;li&gt;hűtést ill. fűtést igénylő áruk fuvarozását;&lt;/li&gt;
+	&lt;li&gt;expressz (2 sofőrös) feladatok ellátását;&lt;/li&gt;
+	&lt;li&gt;stand-by pótkocsik kihelyezését.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Legnagyobb megrendelőinknek személyre szabott szolgáltatást tudunk nyújtani, akár kötött határidőkről, részrakományokról vagy just-in-time rendszerű fuvarozásról legyen szó. Munkatársaink a nap 24 órájában rendelkezésre állnak.&lt;br /&gt;
 Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántartási rendszerünk biztosítja, hogy megbízóink igény szerinti, naprakész és pontos tájékoztatást kapjanak. Minden munkatársunk és minden járművünk rendelkezik mobiltelefonnal. Kamionjainkban műholdas járműkövető rendszer is van.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;tab-pane&quot; id=&quot;Tengeri-es-legi&quot; role=&quot;tabpanel&quot;&gt;
+&lt;div class=&quot;tab-pane active&quot; id=&quot;Tengeri-es-legi&quot; role=&quot;tabpanel&quot;&gt;
 &lt;div class=&quot;tab-pane-content&quot;&gt;
 &lt;p&gt;A 2015-ben megnyitott győri irodánk a közúti szállítmányozáson túl teljes körű szállítmányozási szolgáltatást nyújt partnereinknek.&lt;/p&gt;
 
@@ -297,7 +271,7 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
 &lt;div&gt; &lt;/div&gt;
 
 &lt;div&gt;
-&lt;h3&gt;ELÉRHETŐ SZOLGÁLTATÁSOK&lt;/h3&gt;
+&lt;h3&gt;Elérhető szolgáltatások:&lt;/h3&gt;
 &lt;/div&gt;
 
 &lt;ul&gt;&lt;li&gt;teljes vagy gyűjtő és részrakományok átrakása 0-24 órában&lt;/li&gt;
@@ -333,7 +307,7 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
   <title>Rólunk</title>
   <link>http://adlertrans.localhost/rolunk</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE-HIT: Yes --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:1
@@ -348,33 +322,7 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
    * user.permissions
    * timezone
 --&gt;
-&lt;!-- CACHE KEYS:
-   * entity_view
-   * node
-   * 1
-   * rss
-   * hu
---&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
-&lt;!-- PRE-BUBBLING CACHE TAGS:
-   * node_view
-   * node:1
---&gt;
-&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
-   * languages:language_content
-   * languages:language_interface
-   * theme
-   * user.permissions
---&gt;
-&lt;!-- PRE-BUBBLING CACHE KEYS:
-   * entity_view
-   * node
-   * 1
-   * rss
-   * hu
---&gt;
-&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.009179115 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Rólunk&lt;/span&gt;
 

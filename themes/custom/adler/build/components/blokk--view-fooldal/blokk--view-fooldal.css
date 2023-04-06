@@ -120,7 +120,7 @@ body.toolbar-vertical .navbar {
   .navbar .ms-auto {
     flex-direction: column-reverse;
     overflow-y: scroll;
-    height: calc(100vh - 76px);
+    height: calc(100vh - 65px);
     max-height: 575px;
     background: #0b5c8b;
   }
@@ -198,12 +198,7 @@ body.toolbar-vertical .navbar {
   }
 }
 .navbar ul.links.nav li {
-  color: #2f2c26;
-}
-@media (max-width: 1199.98px) {
-  .navbar ul.links.nav li {
-    color: #fff;
-  }
+  color: #d5d5d3;
 }
 .navbar ul.links.nav li.is-active {
   color: #0b5c8b;
@@ -223,7 +218,7 @@ body.toolbar-vertical .navbar {
   .navbar ul.nav {
     flex-direction: column;
     flex-wrap: nowrap;
-    overflow-y: scroll;
+    overflow-y: hidden;
     height: 100%;
   }
 }
@@ -253,10 +248,19 @@ body.toolbar-vertical .navbar {
   }
 }
 
+@media (max-width: 1199.98px) {
+  .block--system-menu .nav li:last-child .nav-link {
+    margin-bottom: calc(2.7em + 26px);
+  }
+}
+
 html {
   scroll-padding-top: calc(20% + 50px) !important;
 }
 
+.view-fooldal-view .views-row {
+  margin-bottom: 12rem;
+}
 .view-fooldal-view h1 {
   margin: 1em 0;
 }
@@ -382,7 +386,7 @@ html {
 }
 @media (max-width: 767.98px) {
   #szechenyi-container {
-    margin-bottom: -1.32em;
+    margin-bottom: -10.24em;
   }
 }
 

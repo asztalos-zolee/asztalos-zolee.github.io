@@ -43,7 +43,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.236222982 -->
+<!-- RENDERING TIME: 0.028887987 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/de" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -98,7 +98,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.052045107 --&gt;
+&lt;!-- RENDERING TIME: 0.008877039 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Fuhrpark&lt;/span&gt;
 
@@ -144,7 +144,7 @@
   <title>Környezetvédelem</title>
   <link>http://adlertrans.localhost/kornyezetvedelem</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE-HIT: Yes --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:3
@@ -160,33 +160,7 @@
    * timezone
    * languages:language_url
 --&gt;
-&lt;!-- CACHE KEYS:
-   * entity_view
-   * node
-   * 3
-   * rss
-   * de
---&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
-&lt;!-- PRE-BUBBLING CACHE TAGS:
-   * node_view
-   * node:3
---&gt;
-&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
-   * languages:language_content
-   * languages:language_interface
-   * theme
-   * user.permissions
---&gt;
-&lt;!-- PRE-BUBBLING CACHE KEYS:
-   * entity_view
-   * node
-   * 3
-   * rss
-   * de
---&gt;
-&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.009840965 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Umweltschutz&lt;/span&gt;
 
@@ -268,7 +242,7 @@
    * de
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.012217045 --&gt;
+&lt;!-- RENDERING TIME: 0.007467031 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Unsere Dienstleistungen&lt;/span&gt;
 
@@ -376,7 +350,7 @@
   <title>Rólunk</title>
   <link>http://adlertrans.localhost/rolunk</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: No --&gt;
+&lt;!-- CACHE-HIT: Yes --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:1
@@ -392,33 +366,7 @@
    * timezone
    * languages:language_url
 --&gt;
-&lt;!-- CACHE KEYS:
-   * entity_view
-   * node
-   * 1
-   * rss
-   * de
---&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
-&lt;!-- PRE-BUBBLING CACHE TAGS:
-   * node_view
-   * node:1
---&gt;
-&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
-   * languages:language_content
-   * languages:language_interface
-   * theme
-   * user.permissions
---&gt;
-&lt;!-- PRE-BUBBLING CACHE KEYS:
-   * entity_view
-   * node
-   * 1
-   * rss
-   * de
---&gt;
-&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.010614872 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Wir über uns&lt;/span&gt;
 
