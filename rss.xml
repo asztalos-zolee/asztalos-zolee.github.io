@@ -42,7 +42,7 @@
    * display
    * feed_1
 -->
-<!-- RENDERING TIME: 0.110107183 -->
+<!-- RENDERING TIME: 0.219435930 -->
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xml:base="http://adlertrans.localhost/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <channel>
@@ -96,7 +96,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.037868977 --&gt;
+&lt;!-- RENDERING TIME: 0.051404953 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Járműpark&lt;/span&gt;
 
@@ -128,7 +128,7 @@
   <title>Környezetvédelem</title>
   <link>http://adlertrans.localhost/kornyezetvedelem</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: Yes --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:3
@@ -143,7 +143,33 @@
    * user.permissions
    * timezone
 --&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * hu
+--&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:3
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 3
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.009086847 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Környezetvédelem&lt;/span&gt;
 
@@ -215,7 +241,7 @@
    * hu
 --&gt;
 &lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
-&lt;!-- RENDERING TIME: 0.010616064 --&gt;
+&lt;!-- RENDERING TIME: 0.015438080 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Szolgáltatásaink&lt;/span&gt;
 
@@ -307,7 +333,7 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
   <title>Rólunk</title>
   <link>http://adlertrans.localhost/rolunk</link>
   <description>&lt;!-- START RENDERER --&gt;
-&lt;!-- CACHE-HIT: Yes --&gt;
+&lt;!-- CACHE-HIT: No --&gt;
 &lt;!-- CACHE TAGS:
    * node_view
    * node:1
@@ -322,13 +348,37 @@ Információs rendszerünk, a számítógépes fuvarkövetési és nyilvántart�
    * user.permissions
    * timezone
 --&gt;
+&lt;!-- CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * hu
+--&gt;
 &lt;!-- CACHE MAX-AGE: -1 --&gt;
+&lt;!-- PRE-BUBBLING CACHE TAGS:
+   * node_view
+   * node:1
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE CONTEXTS:
+   * languages:language_content
+   * languages:language_interface
+   * theme
+   * user.permissions
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE KEYS:
+   * entity_view
+   * node
+   * 1
+   * rss
+   * hu
+--&gt;
+&lt;!-- PRE-BUBBLING CACHE MAX-AGE: -1 --&gt;
+&lt;!-- RENDERING TIME: 0.018759012 --&gt;
 
 &lt;span property=&quot;schema:name&quot;&gt;Rólunk&lt;/span&gt;
 
             &lt;div property=&quot;schema:text&quot; class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Társaságunk 1995-ben alakult, magántulajdonú vállalkozásként működik. Sokéves tapasztalatra tettünk szert az elmúlt időszakban a nemzetközi szállítmányozás és fuvarozás területén.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;span&gt;Mindig fontosnak tartottuk a nyújtott szolgáltatások magas színvonalon történő ellátását, és partnereink gyors, pontos és rugalmas kiszolgálását.&lt;/span&gt;&lt;/p&gt;
 

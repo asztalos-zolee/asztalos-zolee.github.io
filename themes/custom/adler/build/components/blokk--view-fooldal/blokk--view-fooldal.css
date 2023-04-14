@@ -372,14 +372,14 @@ html {
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 1;
+  z-index: 3;
   display: block;
   width: 20vw;
-  min-width: 8em;
+  min-width: 18em;
   max-width: 450px;
+  margin-right: auto;
   margin-bottom: -9.92em;
-  margin-left: auto;
-  background-image: url("../../assets/images/szechenyi.png");
+  background-image: url("../../assets/images/szechenyi-bal.png");
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
